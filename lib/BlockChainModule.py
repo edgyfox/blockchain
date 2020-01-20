@@ -2,7 +2,6 @@
 """
 Created on Thu Jul 18 17:53:11 2019
 
-@author: an095t
 """
 import BlockModule as BM
 import BlockTransactionModule as BTM

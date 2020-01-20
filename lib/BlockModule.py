@@ -2,7 +2,6 @@
 """
 Created on Thu Jul 18 17:49:09 2019
 
-@author: an095t
 """
 import time
 import hashlib

@@ -2,7 +2,6 @@
 """
 Created on Fri Jul 19 17:29:26 2019
 
-@author: an095t
 """
 
 class BlockTransaction:
